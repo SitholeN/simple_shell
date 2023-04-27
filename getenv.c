@@ -1,8 +1,9 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * get_environ - outputs a string array copy of the environ
- * @info: contains potential arguments and maintains constant function prototype.
+ * @info: contains potential arguments and
+ * maintains constant function prototype.
  * Return: 0 as the return
  */
 char **get_environ(info_t *info)
